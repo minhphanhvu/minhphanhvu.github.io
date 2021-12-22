@@ -505,3 +505,13 @@ footer {
     max-width: 720px;
   }
 }
+
+.image-big {
+  width: 130%;
+  height: 130%;
+}
+
+#requestit {
+  width: 80%;
+  height: 200%;
+}
